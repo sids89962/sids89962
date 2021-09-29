@@ -4,6 +4,7 @@
 - 📫 How to reach me linkedin <a href="https://www.linkedin.com/in/satyamsharma1997/">Satyam Sharma</a>
 
 I'm Mechatronics Engineer turned web developer, learned PHP in the beginning but now learning MERN stack. I'm not too good at desiging UI's but surely can script most things.
+This is a beginner's repository, I'm adding projects and making commits regularly.
 
 
 <a href="mailto:sids89962@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
