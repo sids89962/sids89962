@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sids89962 or Satyam Sharma
 - 👀 I’m interested in web developement and trading
-- 🌱 I’m currently learning MERN stack
+- 🌱 Expertise in frontend and backend development with MEAN and MERN stack.
 - 📫 How to reach me linkedin <a href="https://www.linkedin.com/in/satyamsharma1997/">Satyam Sharma</a>
 
 I'm Mechatronics Engineer turned professional web developer.
